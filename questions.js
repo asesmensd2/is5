@@ -1,13 +1,13 @@
 const questions = [
     {
         soal: "Yang termasuk bacaan Surah Al-Ma'un ayat ke-5 adalah...",
-        gambar: "images/ayat1.jpg",
+        gambar: "ayat1.jpg",
         pilihan: ["Pilih A", "Pilih B", "Pilih C", "Pilih D"],
         jawabanBenar: "Pilih B"
     },
     {
         soal: "Lafal yang dicetak tebal pada ayat di bawah artinya...",
-        gambar: "images/ayat2.jpg",
+        gambar: "ayat2.jpg",
         pilihan: ["A", "B", "C", "D"],
         jawabanBenar: "C"
     },
@@ -33,7 +33,7 @@ const questions = [
     },
     {
         soal: "Perhatikan Q.S. Al-Baqarah ayat 255 berikut! Ayat tersebut menunjukkan asmaul husna ....",
-        gambar: "images/ayat3.jpg",
+        gambar: "ayat3.jpg",
         pilihan: ["Al-Qayyum", "Al-Aziz", "Al-Fattah", "Al-Mumit"],
         jawabanBenar: "Al-Mumit"
     },
@@ -59,7 +59,7 @@ const questions = [
     },
     {
         soal: "Kata yang bergaris bawah, dinamakan hukum bacaan ....",
-        gambar: "images/ayat4.jpg",
+        gambar: "ayat4.jpg",
         pilihan: ["Idghom Arid Lissukun", "Mad Jaiz Munfasil", "Idghom Mimi", "Mad Wajib Muttasil"],
         jawabanBenar: "Idghom Mimi"
     },
